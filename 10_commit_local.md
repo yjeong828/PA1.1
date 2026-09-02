@@ -39,3 +39,6 @@ You can get a visualization of this commit history in VS code under the 'source 
 ![Git history](https://github.com/TUDelft-MUDE/source-files/raw/main/file/git_history_vs_code_all.jpg)
 
 > By Tom van Woudenberg and Robert Lanzafame, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html). This page uses content from [Learn Programming for Engineers](https://teachbooks.io/learn-programming) by Delft University of Technology, licensed with CC BY 4.0 License.
+
+## This is something new
+# Creating a new file is always fun!
